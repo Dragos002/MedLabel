@@ -1,0 +1,37 @@
+# Built application files
+*.apk
+*.aab
+*.ap_
+*.dex
+
+# Files for the ART/Dalvik VM
+*.class
+
+# Generated build files and outputs
+build/
+.gradle/
+bin/
+gen/
+out/
+
+# Local configuration files (contains local SDK paths)
+local.properties
+
+# Android Studio / IntelliJ IDEA settings
+.idea/
+*.iml
+*.ipr
+*.iws
+.navigation/
+captures/
+.externalNativeBuild/
+.cxx/
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Log files and profiling dumps
+*.log
+*.hprof
